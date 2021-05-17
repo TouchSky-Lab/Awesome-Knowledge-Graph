@@ -14,13 +14,13 @@
 - [Zhishi.me](http://zhishi.me/) - Knowledge Graph data extracted from the largest Chinese encyclopedias, Baidu Baike, Hudong Baike and Chinese Wikipedia.
 
 # Semantic Network Dataset
-- ConceptNet - ConceptNet is a freely-available semantic network, designed to help computers understand the meanings of words that people use.
-- Microsoft Concept Graph - For Short Text Understanding
-- OpenHowNet - An Open Sememe-based Lexical Knowledge Base in Chinese.
-- WordNet - A free large lexical database of English from Princeton University.
+- [ConceptNet](http://conceptnet.io/) - ConceptNet is a freely-available semantic network, designed to help computers understand the meanings of words that people use.
+- [Microsoft Concept Graph](https://concept.research.microsoft.com/) - For Short Text Understanding
+- [OpenHowNet](https://openhownet.thunlp.org/) - An Open Sememe-based Lexical Knowledge Base in Chinese.
+- [WordNet](http://wordnet.princeton.edu/) - A free large lexical database of English from Princeton University.
 
 # Academic Dataset
-- AMiner - Aminer aims to provide comprehensive search and mining services for researcher social networks.
-- Microsoft Academic - Microsoft Academic (MA) employs advances in machine learning, semantic inference and knowledge discovery to help you explore scholarly information in more powerful ways than ever before.
-- AceMap - Academic search engine based on knowledge graph which includes entities like paper, author, institution and etc.
+- [AMiner](https://www.aminer.cn/) - Aminer aims to provide comprehensive search and mining services for researcher social networks.
+- [Microsoft Academic](https://academic.microsoft.com/) - Microsoft Academic (MA) employs advances in machine learning, semantic inference and knowledge discovery to help you explore scholarly information in more powerful ways than ever before.
+- [AceMap](https://www.acemap.info/) - Academic search engine based on knowledge graph which includes entities like paper, author, institution and etc.
 - 
