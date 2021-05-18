@@ -1,12 +1,27 @@
 # Knowledge Graph Database
-- neo4j
-- 
+- Neo4j - OLTP graph database
+- JanusGraph - an open-source, distributed graph database with pluggable storage and indexing backends
+- AgensGraph - multi-model graph database with SQL and Cypher support based on PostgreSQL
+- ArangoDB - highly available Multi-Model NoSQL database
+- Blazegraph - GPU accelerated graph database
+- Cayley - open source database written in Go
+- CosmosDB - cloud-based multi-model database with support for TinkerPop3
+- Dgraph - Fast, Transactional, Distributed Graph Database (open source, written in Go)
+- DSE Graph - Graph layer on top of DataStax Enterprise (Cassandra, SolR, Spark)
+
 
 # Triple Stores
+- AllegroGraph - high-performance, persistent graph database that scales to billions of quads
+- Apache Jena - open source Java framework for building Semantic Web and Linked Data applications
+- Eclipse RDF4J - (formerly known as Sesame) is an open source Java framework for processing RDF data. This includes parsing, storing, inferencing and querying of/over such data. It offers an easy-to-use API that can be connected to all leading RDF storage solutions. It allows you to connect with SPARQL endpoints and create applications that leverage the power of linked data and Semantic Web.
+- GraphDB - enterprise ready Semantic Graph Database, compliant with W3C Standards
+- Virtuoso - a "Data Junction Box" that drives enterprise and individual agility by deriving a Semantic Web of Linked Data from existing data silos
+- Hoply - explore bigger than RAM relational data in the comfort of Python.
 
 
 
 # Graph Computing Framework
+- Apache Spark - GraphX - Apache Spark's API for graphs and graph-parallel computation
 
 
 # Graph Visualization
@@ -14,7 +29,11 @@
 
 # Language
 - Cypher
-- 
+- Gremlin
+- SPARQL
+- GraphQL+- - The query language of Dgraph, which is based on Facebook's GraphQL
+- GQL - An initiative to create a standard query language for property graph database, just like SQL for relational database.
+
 
 
 # Knowledge Graph Dataset
