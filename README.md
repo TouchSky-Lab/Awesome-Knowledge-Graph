@@ -1,3 +1,7 @@
+# Overviews of Knowledge Graph 
+- A Survey on Knowledge Graphs: Representation, Acquisition and Applications (2020)[[paper](https://arxiv.org/pdf/2002.00388.pdf)]
+- Knowledge Graphs [[paper](https://arxiv.org/pdf/2003.02320.pdf)] 
+
 # Knowledge Graph Database
 - Neo4j - OLTP graph database
 - JanusGraph - an open-source, distributed graph database with pluggable storage and indexing backends
