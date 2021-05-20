@@ -1,6 +1,32 @@
 # Overviews of Knowledge Graph 
 - A Survey on Knowledge Graphs: Representation, Acquisition and Applications (2020)[[paper](https://arxiv.org/pdf/2002.00388.pdf)]
-- Knowledge Graphs [[paper](https://arxiv.org/pdf/2003.02320.pdf)] 
+- Knowledge Graphs. 2020 [[paper](https://arxiv.org/pdf/2003.02320.pdf)] 
+f
+
+# Knowledge-Augmented Launguage Models
+- ERNIE: Enhanced Representation through Knowledge Integration(2019)
+- ERNIE: Enhanced Language Representation with Informative Entities(2019)
+- Latent Relation Language Models(2019)
+- K-BERT: Enabling Language Representation with Knowledge Graph
+- KG-BERT: BERT for Knowledge Graph Completion(2019)
+- Enriching BERT with Knowledge Graph Embeddings for Document Classification(2019)
+- ERNIE 2.0: A Continual Pre-Training Framework for Language Understanding
+- SENSEMBERT: Context-Enhanced Sense Embeddings for Multilingual Word Sense Disambiguation
+- Inducing Relational Knowledge from BERT
+- Integrating Graph Contextualized Knowledge into Pre-trained Language Models
+- Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension
+- K-ADAPTER- Infusing Knowledge into Pre-Trained Models with Adapters
+- Knowledge Enhanced Contextual Word Representations (EMNLP 2019)
+- KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation (2020)
+- Pretrained Encyclopedia: Weakly Supervised Knowledge-Pretrained Language Model (ICLR 2020)
+- Language Models as Knowledge Bases?
+- A Frame-based Sentence Representation for Machine Reading Comprehension (ACL 2020)
+
+# Commonsens Knowledge
+
+
+
+
 
 # Knowledge Graph Database
 - Neo4j - OLTP graph database
